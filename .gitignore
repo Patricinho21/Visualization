@@ -7,6 +7,13 @@
 *.o
 *.obj
 
+# Folders
+IndieGame/Saved
+IndieGame/Intermediate
+IndieGame/DerivedDataCache
+IndieGame/Binaries
+IndieGame/Build
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -40,7 +47,6 @@
 *.sdf
 *.VC.db
 *.VC.opendb
-.vsconfig
 
 # Precompiled Assets
 SourceArt/**/*.png

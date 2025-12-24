@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Patri/Documentos/GithubProjects/Visualization/Visualization/Content/ArchViz/BP_ArchViz.uasset",
+				"C:/Users/Patri/Documentos/GithubProjects/Visualization/Visualization/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Patri/Documentos/GithubProjects/Visualization/Visualization/Content/ArchViz/L_ArchViz.umap",
+				"C:/Users/Patri/Documentos/GithubProjects/Visualization/Visualization/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/Patri/Documentos/GithubProjects/Visualization/Visualization/Content/ArchViz/L_Pieza.umap",
+				"C:/Users/Patri/Documentos/GithubProjects/Visualization/Visualization/Content/LevelPrototyping/Materials/M_PrototypeGridPrimitive.uasset",
+				"C:/Users/Patri/Documentos/GithubProjects/Visualization/Visualization/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/Users/Patri/Documentos/GithubProjects/Visualization/Visualization/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Patri/Documentos/GithubProjects/Visualization/Visualization/Content/LevelPrototyping/Materials/Mi_PrototypeGridPrim.uasset"
+			]
+		}
+	]
+}
